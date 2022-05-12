@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.bigger{
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 12px;
+    border-radius: 17px;
+    
+
+
+}
+.img{
+    margin-top: 170px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px ;
+}
+
+.boldtext{
+    font-weight: bold;
+}
+.light{
+    font-size: small;
+    color: hsl(220, 15%, 55%);
+
+}
